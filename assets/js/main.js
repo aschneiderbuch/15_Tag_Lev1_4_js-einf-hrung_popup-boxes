@@ -21,9 +21,11 @@ let grosse = "2,72m"
 console.log(mann + grosse)
 alert( mann + grosse)
 
-
+alert(location.hostname)
 // Funktion
 
 function myFunction(){
     alert("Heelo! I am an alert box. \n Du bist " + alter + " Jahre alt ;-)")
 }
+//* \n macht alert Mehrzeilig
+
