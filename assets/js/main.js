@@ -20,3 +20,10 @@ let mann = "Robert Wadlow ist der größte Mann der Welt : "
 let grosse = "2,72m"
 console.log(mann + grosse)
 alert( mann + grosse)
+
+
+// Funktion
+
+function myFunction(){
+    alert("Heelo! I am an alert box. \n Du bist " + alter + " Jahre alt ;-)")
+}
