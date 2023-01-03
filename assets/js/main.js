@@ -29,3 +29,11 @@ function myFunction(){
 }
 //* \n macht alert Mehrzeilig
 
+let abfrageName = prompt ("Wie heißt du? ")
+console.log(abfrageName)
+let abfageAlter = prompt ("Hi " + abfrageName + " wie alt bist du?")
+console.log(abfageAlter)
+let geburtsJahr = 2022 - abfageAlter
+console.log(geburtsJahr)
+alert("Krass dann bis du ja " + geburtsJahr + " gebohren.")
+console.log(alter)
