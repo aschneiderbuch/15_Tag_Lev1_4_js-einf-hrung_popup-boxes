@@ -37,3 +37,12 @@ let geburtsJahr = 2022 - abfageAlter
 console.log(geburtsJahr)
 alert("Krass dann bis du ja " + geburtsJahr + " gebohren.")
 console.log(alter)
+
+let x = 2
+console.log(x)
+
+{
+    let x = 3 
+    console.log(x)
+}
+console.log(x)
