@@ -8,9 +8,15 @@ window.confirm("Stimmen Sie meiner Meinung zu?")
 
 
 let alter = prompt ("Gib mr bitte dein Alter: ")
-console.log(alter)      // gibt diese prompt Antwort zurück
+console.log("Wert von prompt Abfrage: =  " + alter)      // gibt diese prompt Antwort zurück
 
 let b = 5
 console.log(b) // 5
 let a = b * 5 -3 // 22
 console.log(a)
+alert(a)
+
+let mann = "Robert Wadlow ist der größte Mann der Welt : "
+let grosse = "2,72m"
+console.log(mann + grosse)
+alert( mann + grosse)
